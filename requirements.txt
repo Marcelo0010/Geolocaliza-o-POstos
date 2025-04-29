@@ -1,0 +1,8 @@
+pandas
+geopandas
+folium
+shapely
+numpy
+dash
+plotly
+openpyxl
