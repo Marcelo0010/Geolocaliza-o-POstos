@@ -16,18 +16,18 @@ Este projeto utiliza Python, Dash e Folium para criar um painel interativo que c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Marcelo0010/Geolocaliza-o-POstos.git
-   cd Geolocaliza-o-POstos
+      git clone https://github.com/Marcelo0010/Geolocaliza-o-POstos.git
+      cd Geolocaliza-o-POstos
 
 2. Instale as dependências:
-
-pip install -r requirements.txt
+   ```bash
+      pip install -r requirements.txt
 
 3. Edite o caminho do arquivo Excel no script principal:
-
-file_path = r"D:ADICIONE AQUI O CAMINHO DO ARQUIVO"
+   ```bash
+      file_path = r"D:ADICIONE AQUI O CAMINHO DO ARQUIVO"
 
 4. Execute o painel:
-
-python mapa_postos_modelo.py
+   ```bash
+      python mapa_postos_modelo.py
 
